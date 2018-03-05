@@ -1,3 +1,2 @@
 # test
-This is an example
-This is the first example
+This common is from Gitexample
